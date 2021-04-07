@@ -28,7 +28,7 @@ Voting Breakdown
 Election Restults:
 - Winner: Diana DeGette
 - Winning Vote Count: 272,892
--Winning Percentage: 73.8%
+- Winning Percentage: 73.8%
 
 ### Summary
 The script used in this audit is simple to use as is simply reads the recorded votes from a CSV file and summarizes the data in a simple and comprehensive format. The script can easily be changed to accommodate a nation wide election, substituting the counties for states instead. The number of states/counties included in the election will not affect the performance of the script as all options will be automatically identified and listed by the script.  
